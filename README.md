@@ -12,11 +12,11 @@ This script is particularly helpful for developers, testers, and digital researc
 - Then install the required Python libraries by pip install -r requirements.txt
 - Run the script by using python web_scraper.py
 
-### Below is a sample output of the script:
+## Below is a sample output of the script:
 
 ![image](https://github.com/user-attachments/assets/e90e366d-4429-4328-96a8-0a5aaa1dc344)
 
-### ❗ Warning & Disclaimer ❗
+## ❗ Warning & Disclaimer ❗
 ⚠️ FOR TESTING PURPOSES ONLY ⚠️
 - This script is intended strictly for educational or testing use only.
 - Do NOT use this script to scrape or crawl websites without permission.
