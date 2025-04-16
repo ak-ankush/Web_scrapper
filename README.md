@@ -5,12 +5,16 @@ When executed, the script begins by crawling the main page and follows all inter
 
 In addition to data extraction, the script also performs a keyword search by rendering each page and checking for the presence of user-defined keywords in the visible text. If a keyword is found, it is reported in the console, giving insight into which pages contain relevant content areas.
 
+This script is particularly helpful for developers, testers, and digital researchers who need to extract contact information from websites efficiently. 
+
+## Installation & Usage
+- First, clone the repository by using git clone command
+- Then install the required Python libraries by pip install -r requirements.txt
+- Run the script by using python web_scraper.py
+
 ### Below is a sample output of the script:
 
 ![image](https://github.com/user-attachments/assets/e90e366d-4429-4328-96a8-0a5aaa1dc344)
-
-
-This script is particularly helpful for developers, testers, and digital researchers who need to extract contact information from websites efficiently. 
 
 ### ❗ Warning & Disclaimer ❗
 ⚠️ FOR TESTING PURPOSES ONLY ⚠️
